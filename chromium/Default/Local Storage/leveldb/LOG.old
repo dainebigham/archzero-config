@@ -1,0 +1,24 @@
+2021/05/29-20:21:54.049 3 Reusing MANIFEST /home/zero/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/05/29-20:21:54.053 3 Recovering log #55
+2021/05/29-20:21:54.054 3 Reusing old log /home/zero/.config/chromium/Default/Local Storage/leveldb/000055.log 
+2021/05/29-20:25:09.073 5 Level-0 table #59: started
+2021/05/29-20:25:09.080 5 Level-0 table #59: 85282 bytes OK
+2021/05/29-20:25:09.082 5 Delete type=0 #55
+2021/05/29-20:37:20.520 5 Level-0 table #61: started
+2021/05/29-20:37:20.527 5 Level-0 table #61: 84196 bytes OK
+2021/05/29-20:37:20.531 5 Delete type=0 #58
+2021/05/29-20:37:20.533 5 Compacting 4@0 + 1@1 files
+2021/05/29-20:37:20.548 5 Generated table #62@0: 633 keys, 607935 bytes
+2021/05/29-20:37:20.548 5 Compacted 4@0 + 1@1 files => 607935 bytes
+2021/05/29-20:37:20.550 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/29-20:37:20.551 5 Delete type=2 #61
+2021/05/29-20:37:20.551 5 Delete type=2 #56
+2021/05/29-20:37:20.551 5 Delete type=2 #54
+2021/05/29-20:37:20.551 5 Delete type=2 #51
+2021/05/29-20:37:20.551 5 Delete type=2 #59
+2021/05/29-21:01:05.142 5 Level-0 table #64: started
+2021/05/29-21:01:05.147 5 Level-0 table #64: 34110 bytes OK
+2021/05/29-21:01:05.150 5 Delete type=0 #60
+2021/05/29-21:04:32.672 5 Level-0 table #66: started
+2021/05/29-21:04:32.675 5 Level-0 table #66: 37041 bytes OK
+2021/05/29-21:04:32.677 5 Delete type=0 #63

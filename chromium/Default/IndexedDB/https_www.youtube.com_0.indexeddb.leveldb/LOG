@@ -1,0 +1,4 @@
+2021/05/29-21:00:54.621 89d Reusing MANIFEST /home/zero/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/29-21:00:54.621 89d Recovering log #14
+2021/05/29-21:00:54.622 89d Reusing old log /home/zero/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000014.log 
+2021/05/29-21:00:54.622 89d Delete type=2 #12
